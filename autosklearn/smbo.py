@@ -16,7 +16,7 @@ from smac.callbacks import IncorporateRunResultCallback
 from smac.facade.smac_ac_facade import SMAC4AC
 from smac.intensification.intensification import Intensifier
 from smac.intensification.simple_intensifier import SimpleIntensifier
-from smac.optimizer.multi_objective.parego import ParEGO
+from smac.multi_objective.parego import ParEGO
 from smac.runhistory.runhistory2epm import RunHistory2EPM4LogCost
 from smac.scenario.scenario import Scenario
 from smac.tae.dask_runner import DaskParallelRunner
