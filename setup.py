@@ -67,7 +67,7 @@ with open(os.path.join(HERE, "README.md")) as fh:
 
 
 setup(
-    name="auto-sklearn",
+    name="autosklearn",
     author="Matthias Feurer",
     author_email="feurerm@informatik.uni-freiburg.de",
     description="Automated machine learning.",
