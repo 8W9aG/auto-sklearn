@@ -19,4 +19,4 @@ tqdm
 ConfigSpace==0.6.1
 pynisher>=0.6.3,<0.7
 pyrfr>=0.8.1,<0.9
-smac>=1.2,<1.3
+smac==1.4.0
